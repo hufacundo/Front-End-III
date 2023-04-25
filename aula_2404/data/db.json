@@ -1,0 +1,28 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "Hugo",
+      "email": "hugo@gmail.com",
+      "curso": "Sistemas para Internet"
+    },
+    {
+      "id": 2,
+      "nome": "Guilherme",
+      "email": "guigui@gmail.com",
+      "curso": "Sistemas para Internet"
+    },
+    {
+      "id": 3,
+      "nome": "Carlos",
+      "email": "carlos@gmail.com",
+      "curso": "Sistemas para Internet"
+    },
+    {
+      "nome": "Ricardo",
+      "email": "ric@gmail.com",
+      "curso": "Sistemas paea Internet",
+      "id": 4
+    }
+  ]
+}

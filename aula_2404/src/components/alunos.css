@@ -1,0 +1,68 @@
+/* estilo moderno para o formulário */
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.form label {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.form input {
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 20px;
+  width: 300px;
+  font-size: 16px;
+  color: #555;
+  background-color: #f5f5f5;
+  transition: background-color 0.3s ease;
+}
+
+.form input:focus {
+  outline: none;
+  background-color: #fff;
+}
+
+.form button {
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  width: 300px;
+  font-size: 16px;
+  color: #fff;
+  background-color: #007bff;
+  transition: background-color 0.3s ease;
+}
+
+.form button:hover {
+  cursor: pointer;
+  background-color: #0069d9;
+}
+
+/* estilo moderno para a tabela */
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.table th {
+  font-weight: bold;
+  text-align: left;
+  padding: 10px;
+  border-bottom: 2px solid #007bff;
+}
+
+.table td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.table tr:hover {
+  background-color: #f5f5f5;
+}
